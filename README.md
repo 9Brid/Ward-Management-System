@@ -1,6 +1,9 @@
 # Ward-Management-System
 这是一个大四的毕业设计
 
+用的技术
+java8,mysql5.7, redis ,nodejs18.14.1
+
 效果展示
 
 ### 主页
