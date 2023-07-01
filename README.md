@@ -1,5 +1,5 @@
 # Ward-Management-System
-这是一个大四的毕业设计
+这是一个大四的毕业设计，病房管理系统
 
 用的技术
 java8,mysql5.7, redis ,nodejs18.14.1
